@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/amitsinghrawat"><img src="https://api.daily.dev/devcards/89ed1e1d04da4f6185e26125290b72b6.png?r=n7p" width="400" alt="Amit Singh Rawat's Dev Card"/></a>
 
 <!--
 **amitsinghrawat1994/amitsinghrawat1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
